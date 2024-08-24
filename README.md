@@ -1,16 +1,30 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🎧 
 
-<!--
-**estudantealuraL09/estudantealuraL09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O meu nome é **Lucas**
 
-Here are some ideas to get you started:
+ Estou desenvolvendo scratch e Java script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ ![futebol](https://media.tenor.com/go5H11uCkTkAAAAi/messi-te%C5%9Fekk%C3%BCr-ederiz-png.gif)
+
+Meu**curiculo**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deas to get you started:...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
